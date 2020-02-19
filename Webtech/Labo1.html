@@ -1,0 +1,115 @@
+<!-- basis html pagina met een titel, heading en paragraph -->
+<html>
+	<head>
+		<title>Labo web tech HTML</title>
+		<!-- image width of 250px -->
+		<!-- geef de pagine een nieuw achtergrond kleur -->
+		<!-- geef de header een look en feel van een titel bar met een andere achtergrond en text -->
+		<!-- wijzig de bollen naar een ander symbool -->
+		<style>
+			table 
+				{
+					font-family: arial, sans-serif;
+					border-collapse: collapse;
+					width: 100%;
+				}
+			td, th 
+				{
+					border: 1px solid #dddddd;
+					text-align: left;
+					padding: 8px;
+				}
+			tr:nth-child(even) 
+				{
+					background-color: #dddddd;
+				}
+			body 
+				{
+					background-color: #009999;
+				}
+			h1 
+				{
+					color: white;
+					background-color: black;
+					text-align: center;
+					padding: 20px;
+					margin: 20px;
+					font-size: 50px;
+				}
+			ul
+				{
+					list-style-type: cjk-ideographic;
+				}
+			img
+				{
+					max-width: 250px;
+				}
+		</style>
+	</head>
+	<body>
+		<h1>Heading</h1>
+		<p>Klik op de link voor een html template.</p>
+		<!-- voeg een hyperlink toe die in een nieuw tablad opent -->
+		<a href="https://www.w3schools.com/html/" target="_blank">Html page</a>
+		<!-- voeg een afbeelding toe -->
+		<br />
+		<img src="https://cdn.discordapp.com/attachments/652585419933745172/674421325103759360/hrhp3184ite41.png"/>
+		</video>
+		<!-- maak een oplijsting van een aantal videos -->
+		<ul>
+			<li>
+				<video width="560" height="315" controls>
+					<source src="video2.mp4" type="video/mp4">
+			</li>
+			<li>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/GyNW4DxHVCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</li>
+			<li>
+				<video width="560" height="315" controls>
+					<source src="video.mp4" type="video/mp4">
+			</li>
+		</ul>
+		<!-- maak een tabel met 3 kolomen (titel duur en prijs van een film) -->
+		<!-- vierde kolom met afbeeldingen -->
+		<table style="width:100%">
+			<tr>
+				<th>Titel</th>
+				<th>Duur</th>
+				<th>Prijs</th>
+				<th>Image</th>
+			</tr>
+			<tr>
+				<td>Video1</td>
+				<td>7m12</td>
+				<td>1</td>
+				<td>
+					<img height="150" src="https://tinyjpg.com/images/social/website.jpg">
+				</td>
+			</tr>
+			<tr>
+				<td>Video2</td>
+				<td>8m11</td>
+				<td>2</td>
+				<td>
+					<img height="150" src="https://www.bigstockphoto.com/images/homepage/module-6.jpg"/>
+				</td>
+			</tr>
+			<tr>
+				<td>Video3</td>
+				<td>9m10</td>
+				<td>3</td>
+				<td>
+					<img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT52T6LasSuthA1DMVNye4bV2LTXrolEUm0gdG-fOiVgmxLKVR">
+				</td>
+			</tr>
+		</table>
+		<!-- voorzie input veld met knop -->
+		<input type="text" name="vul iets in">
+		<button type="button">Enter!</button>
+		<!-- voorzie een nieuw input veld en knop bij het druken van de kmop komen de waarden als url parameter in de ulr te staan -->
+		<form method="GET">
+			<input type="number" name="number1" placeholder="number1" />
+			<input type="submit" />
+		</form>
+	</body>
+</html>
