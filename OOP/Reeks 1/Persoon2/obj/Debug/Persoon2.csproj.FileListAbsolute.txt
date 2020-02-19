@@ -1,0 +1,6 @@
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 1\Persoon2\bin\Debug\Persoon2.exe.config
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 1\Persoon2\bin\Debug\Persoon2.exe
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 1\Persoon2\bin\Debug\Persoon2.pdb
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 1\Persoon2\obj\Debug\Persoon2.csprojAssemblyReference.cache
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 1\Persoon2\obj\Debug\Persoon2.exe
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 1\Persoon2\obj\Debug\Persoon2.pdb

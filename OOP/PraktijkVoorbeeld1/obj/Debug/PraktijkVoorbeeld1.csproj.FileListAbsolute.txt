@@ -1,0 +1,6 @@
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\PraktijkVoorbeeld1\bin\Debug\PraktijkVoorbeeld1.exe.config
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\PraktijkVoorbeeld1\bin\Debug\PraktijkVoorbeeld1.exe
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\PraktijkVoorbeeld1\bin\Debug\PraktijkVoorbeeld1.pdb
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\PraktijkVoorbeeld1\obj\Debug\PraktijkVoorbeeld1.csprojAssemblyReference.cache
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\PraktijkVoorbeeld1\obj\Debug\PraktijkVoorbeeld1.exe
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\PraktijkVoorbeeld1\obj\Debug\PraktijkVoorbeeld1.pdb

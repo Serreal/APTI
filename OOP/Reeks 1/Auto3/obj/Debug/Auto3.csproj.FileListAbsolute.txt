@@ -1,0 +1,6 @@
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 1\Auto3\obj\Debug\Auto3.csprojAssemblyReference.cache
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 1\Auto3\bin\Debug\Auto3.exe.config
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 1\Auto3\bin\Debug\Auto3.exe
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 1\Auto3\bin\Debug\Auto3.pdb
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 1\Auto3\obj\Debug\Auto3.exe
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 1\Auto3\obj\Debug\Auto3.pdb

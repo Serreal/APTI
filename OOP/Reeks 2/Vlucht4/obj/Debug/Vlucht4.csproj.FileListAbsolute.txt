@@ -1,0 +1,6 @@
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 2\Vlucht4\bin\Debug\Vlucht4.exe.config
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 2\Vlucht4\bin\Debug\Vlucht4.exe
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 2\Vlucht4\bin\Debug\Vlucht4.pdb
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 2\Vlucht4\obj\Debug\Vlucht4.csprojAssemblyReference.cache
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 2\Vlucht4\obj\Debug\Vlucht4.exe
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\OOP\Reeks 2\Vlucht4\obj\Debug\Vlucht4.pdb
