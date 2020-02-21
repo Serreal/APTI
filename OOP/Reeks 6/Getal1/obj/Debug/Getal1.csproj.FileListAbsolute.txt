@@ -1,0 +1,6 @@
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\APTI\OOP\Reeks 6\Getal1\bin\Debug\Getal1.exe.config
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\APTI\OOP\Reeks 6\Getal1\bin\Debug\Getal1.exe
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\APTI\OOP\Reeks 6\Getal1\bin\Debug\Getal1.pdb
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\APTI\OOP\Reeks 6\Getal1\obj\Debug\Getal1.csprojAssemblyReference.cache
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\APTI\OOP\Reeks 6\Getal1\obj\Debug\Getal1.exe
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\APTI\OOP\Reeks 6\Getal1\obj\Debug\Getal1.pdb

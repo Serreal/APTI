@@ -1,0 +1,6 @@
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\APTI\OOP\Reeks 6\Minors2\bin\Debug\Minors2.exe.config
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\APTI\OOP\Reeks 6\Minors2\bin\Debug\Minors2.exe
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\APTI\OOP\Reeks 6\Minors2\bin\Debug\Minors2.pdb
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\APTI\OOP\Reeks 6\Minors2\obj\Debug\Minors2.csprojAssemblyReference.cache
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\APTI\OOP\Reeks 6\Minors2\obj\Debug\Minors2.exe
+C:\Users\stand\OneDrive - Artesis Plantijn Hogeschool Antwerpen\backup\Bureaublad\APTI\OOP\Reeks 6\Minors2\obj\Debug\Minors2.pdb
