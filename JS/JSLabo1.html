@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <script type="text/javascript">
+        //Maak een variable aan met een boodschap, druk deze af op de console
+        var sMessage = 'hallo';
+        //console.error(sMessage);
+
+        //Maak een object aan voor een persoon met drie props: voornaam, achternaam en geboortedatum
+        var oPerson =
+        {
+            firstName: "Sander",
+            lastName: "Standaert",
+            birthDate: "11/04/2000"
+        };
+
+        //Onderstaande voorbeelden zijn hetzelfde, buiten dat cijfers in oPerson.<cijfer> niet kan terwijl bij oPerson["<cijfer>"] dit wel kan.
+        oPerson.city = "Antwerp";
+        oPerson["city"] = "Antwerp";
+        //console.log(oPerson);
+
+        //Maak een array aan met de values A, B en C en druk de values van deze array af.
+        var aValues = ["A", "B", "C"]
+        //Kan afgedrukt worden met .forEach() | for (... of ...) | for (var count = 0; count < aValues.length; count++) { }
+        for (var values of aValues) {
+            //console.log(values); Toont alle waarden een per een
+        }
+        //console.log(aValues); Toont de gehele array zoals gedefinieerd
+        //console.table(aValues); Toont de gehele array in een tabel overview
+
+        //Voeg een lijst toe van films die je graag kijkt aan je persoon object kan via oPerson.movies = [] simpele versie
+        var aMovies = [
+            {
+                title: "Die Hard",
+                year: 2019,
+                directors: [
+                    {
+                        firstName: "Bob",
+                        lastName: "de Bobber",
+                        birthDate: "02/01/1990"
+                    },
+                    {
+                        firstName: "Henk",
+                        lastName: "de Wenk",
+                        birthDate: "01/02/1991"
+                    }]
+            },
+            {
+                title: "Bad Boys",
+                year: 2017,
+                directors: [
+                    {
+                        firstName: "Bob",
+                        lastName: "de Bobber",
+                        birthDate: "02/01/1990"
+                    }]
+            }]
+        oPerson.movie = aMovies;
+        //console.log(oPerson);
+
+        //Maak een functie die de drie props (voor, acthernaam en geboortedatun afdrukt als: "Voornaam: <naam>" de persoon in kwestie is een parameter)
+        function printPerson(oPrintPerson) {
+            return "Firstname: " + oPrintPerson.firstName + "\nLastname: " + oPrintPerson.lastName + "\nBirthdate: " + oPrintPerson.birthDate
+        }
+        console.log(printPerson(oPerson));
+
+        //Alternatieve oplossing om het direct naar nederlands te vertalen (betere oplossing)
+        var oTranslation = {
+            firstName: "Voornaam",
+            lastName: "Achternaam",
+            birthDate: "Geboortedatum"
+        }
+        var aProps = ["firstName", "lastName", "birthDate"];
+
+        for (var sProp of aProps) {
+            console.log(oTranslation[sProp] + ": " + oPerson[sProp]);
+        }
+    </script>
+</body>
+</html>
